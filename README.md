@@ -12,13 +12,13 @@ Precise timing for each light phase
 Automatic cycling (no reset required)
 
 ## Project Structure
-src/ - Verilog source code
+assets/ - Images and video
 
 constraints/ - Pin constraint files
 
-tb/ - Testbench code
+src/ - Verilog source code
 
-assets/ - Image and video
+tb/ - Testbench code
 
 ## Schematic Diagram
 
