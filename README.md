@@ -71,10 +71,10 @@ Click the image below for a short video showing the traffic light controller in 
 This simple project demonstrates how Verilog can be used to control LEDs on an FPGA. The Tang Primer 20K proved to be an excellent platform for learning.
 
 ## 10. Technologies Used
-FPGA: Sipeed Tang Primer 20K (GW2A-LV18PG256C8/I7) with Dock
+- FPGA: Sipeed Tang Primer 20K (GW2A-LV18PG256C8/I7) with Dock
 
-HDL: Verilog
+- HDL: Verilog
 
-Development Tool: Gowin IDE
+- Development Tool: Gowin IDE
 
-Schematic Design: Fritzing
+- Schematic Design: Fritzing
